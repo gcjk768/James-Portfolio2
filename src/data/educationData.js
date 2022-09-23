@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'University of Wollongong in Singapore Institute of Management',
+        institution: 'University of Wollongong (SIM Global Education)',
         course: 'Bachelor of Computer Science (Game and Mobile Development)',
         startYear: '2021',
         endYear: '2023 (Expected)'
